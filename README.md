@@ -26,4 +26,4 @@ Since the dataset was highly imbalanced, we attempted to handle this by addition
 
 ![amazon_summary](https://user-images.githubusercontent.com/44115595/72654848-ffcfca80-3956-11ea-953c-435225811a38.png)
 
-#
+[Ensemble](https://en.wikipedia.org/wiki/Ensemble_learning)
